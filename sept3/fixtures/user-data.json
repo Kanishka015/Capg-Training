@@ -1,0 +1,9 @@
+{
+    "username": "apex_user",
+    "password": "Password123!",
+    "beneficiaryName": "Test User",
+    "accountNumber": "1234567890",
+    "bankName": "HDFC",
+    "amount": "500",
+    "remarks": "Automation Transfer"
+}
